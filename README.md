@@ -2,12 +2,13 @@
 
 ![alt text](https://github.com/vicky7230/NPAD-Android-App/blob/master/graphics/ic_launcher.png "Logo")
 
-A simple app for taking notes. Beautifully designed with google material design.
+### A simple app for taking notes. Beautifully designed with google material design.
 
 # Screen Shots
-
-<img width='300' hspace='20' src='https://github.com/vicky7230/NPAD-Android-App/blob/master/graphics/index.png' />
-<img width='300' hspace='20' src='https://github.com/vicky7230/NPAD-Android-App/blob/master/graphics/index2.png' />
+<p align="center">
+  <img width='280' src='https://github.com/vicky7230/NPAD-Android-App/blob/master/graphics/index.png' />
+  <img width='280' src='https://github.com/vicky7230/NPAD-Android-App/blob/master/graphics/index2.png' />
+</p>
 
 # Features
 
